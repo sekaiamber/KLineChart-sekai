@@ -1,5 +1,5 @@
 {
-  "name": "klinecharts",
+  "name": "klinecharts-sekai",
   "version": "9.8.12",
   "description": "Lightweight k-line chart built with html5 canvas",
   "main": "./dist/index.cjs",
@@ -16,10 +16,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/klinecharts/KLineChart"
+    "url": "https://github.com/sekaiamber/KLineChart-sekai"
   },
   "bugs": {
-    "url": "https://github.com/klinecharts/KLineChart/issues"
+    "url": "https://github.com/sekaiamber/KLineChart-sekai/issues"
   },
   "homepage": "https://klinecharts.com/",
   "keywords": [
